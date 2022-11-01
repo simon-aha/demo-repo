@@ -1,2 +1,3 @@
+# maven-project
 
-README.md1
+Simple Maven Project
